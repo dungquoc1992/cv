@@ -1,0 +1,22 @@
+body{
+ background-color: #E9E4F0;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 5px;
+  width: 50px;
+}
+
+h1 {
+  style: Bold;
+  color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+p{
+  color: white;
+}
